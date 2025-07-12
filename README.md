@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sasha
-=============================================================================================================================
+<div align="center">
+  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/> My name is Sasha</h1>
+</div>
+
 ###
 
-<h2 align="left">Software Engineer | AI and Technology Enthusiast</h2>
+<h2 align="center">50% Software Engineer, 50% AI Whisperer</h2>
 
 ###
 
